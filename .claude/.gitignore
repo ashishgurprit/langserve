@@ -1,0 +1,11 @@
+# SQLite-based sync - ignore generated content
+*.pyc
+__pycache__/
+.cache/
+
+# Keep project-specific files
+!config.json
+!LESSONS-PROJECT.md
+!PROJECT_MEMORY.md
+!settings.local.json
+!CLAUDE.md

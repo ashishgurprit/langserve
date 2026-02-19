@@ -1,0 +1,23 @@
+{
+  "version": "1.73.0",
+  "sync_method": "config",
+  "database_path": "/c/Users/user/Documents/Coding/Streamlined-Development/.claude/content.db",
+  "master_repo": "/c/Users/user/Documents/Coding/Streamlined-Development",
+  "project_name": "langserve",
+  "project_path": "/c/Users/user/Documents/Coding/langserve",
+  "last_sync": "2026-02-16T00:00:27Z",
+  "platform": "windows",
+  "features": {
+    "centralized_lessons": true,
+    "centralized_skills": true,
+    "centralized_code_blocks": true,
+    "centralized_memory": true,
+    "local_overrides": true
+  },
+  "paths": {
+    "content_database": "/c/Users/user/Documents/Coding/Streamlined-Development/.claude/content.db",
+    "claude_helper": "/c/Users/user/Documents/Coding/Streamlined-Development/.claude/claude_helper.py",
+    "backup_script": "/c/Users/user/Documents/Coding/Streamlined-Development/scripts/backup-database.sh",
+    "restore_script": "/c/Users/user/Documents/Coding/Streamlined-Development/scripts/restore-database.sh"
+  }
+}
